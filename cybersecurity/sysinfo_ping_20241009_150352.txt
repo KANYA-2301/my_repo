@@ -1,0 +1,19 @@
+System Information:
+Hostname: Aananthi
+IP Address: 192.168.56.1
+OS: Windows
+OS Version: 10.0.22631
+Architecture: 64bit
+Machine: AMD64
+Processor: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+Current Time: 2024-10-09 15:03:52
+
+Ping Result:
+
+Pinging google.com [142.250.183.174] with 32 bytes of data:
+Reply from 142.250.183.174: bytes=32 time=40ms TTL=114
+
+Ping statistics for 142.250.183.174:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 40ms, Maximum = 40ms, Average = 40ms

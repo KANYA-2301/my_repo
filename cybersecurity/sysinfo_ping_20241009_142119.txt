@@ -1,0 +1,19 @@
+System Information:
+Hostname: Aananthi
+IP Address: 192.168.56.1
+OS: Windows
+OS Version: 10.0.22631
+Architecture: 64bit
+Machine: AMD64
+Processor: Intel64 Family 6 Model 141 Stepping 1, GenuineIntel
+Current Time: 2024-10-09 14:21:19
+
+Ping Result:
+
+Pinging youtube.com [2404:6800:4007:81e::200e] with 32 bytes of data:
+Reply from 2404:6800:4007:81e::200e: time=62ms 
+
+Ping statistics for 2404:6800:4007:81e::200e:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 62ms, Maximum = 62ms, Average = 62ms
