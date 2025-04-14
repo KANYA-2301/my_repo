@@ -1,6 +1,6 @@
  🌿 Medicinal Plant Species Classification
 
-A deep learning-powered image classification system for identifying medicinal plant species through leaf images. This project utilizes a **Convolutional Neural Network (CNN)** architecture with **MobileNetV2** as a feature extractor, delivering efficient and reliable predictions.
+A deep learning-powered image classification system for identifying medicinal plant species through leaf images. This project utilizes a Convolutional Neural Network (CNN) architecture with MobileNetV2 as a feature extractor, delivering efficient and reliable predictions.
 
  📌 Project Highlights
 
